@@ -1,0 +1,1 @@
+<?php $servename="http://".$_SERVER['SERVER_NAME']; if(!defined('allow')){header('Location: '.$servename.'/');}?>

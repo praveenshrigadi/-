@@ -1,0 +1,88 @@
+@font-face {
+  font-family: 'ramakrsna';
+  src:  url('../fonts/ramakrsna.eot');
+  src:  url('../fonts/ramakrsna.eot') format('embedded-opentype'),
+    url('../fonts/ramakrsna.ttf') format('truetype'),
+    url('../fonts/ramakrsna.woff') format('woff'),
+    url('../fonts/ramakrsna.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i, .icomoon-liga {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ramakrsna';
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ram-idols-icon1:before {
+  content: "\e90f";
+}
+.ram-malabracelet-icon1:before {
+  content: "\e910";
+}
+.ram-pujaservices-icon1:before {
+  content: "\e911";
+}
+.ram-rudraksha-icon1:before {
+  content: "\e912";
+}
+.ram-sacredarticles-icon1:before {
+  content: "\e913";
+}
+.ram-shivling-icon1:before {
+  content: "\e914";
+}
+.ram-shreeyantra-icon1:before {
+  content: "\e915";
+}
+.ram-yantra-icon1:before {
+  content: "\e916";
+}
+.ram-idols-icon:before {
+  content: "\e900";
+}
+.ram-mala-bracelets-icon:before {
+  content: "\e901";
+}
+.ram-online-puja-services-icon:before {
+  content: "\e902";
+}
+.ram-rudraksha-icon:before {
+  content: "\e903";
+}
+.ram-sacred-articles-icon:before {
+  content: "\e904";
+}
+.ram-shivling-icon:before {
+  content: "\e905";
+}
+.ram-shree-yantra-icon:before {
+  content: "\e906";
+}
+.ram-yantra-icon:before {
+  content: "\e907";
+}
+.ram-crystals-icon:before {
+  content: "\e908";
+}
